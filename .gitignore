@@ -1,6 +1,7 @@
 # Godot 4+ specific ignores
 .godot/
 
+
 # Godot-specific ignores
 .import/
 export.cfg
@@ -19,3 +20,4 @@ mono_crash.*.json
 
 # Custom
 addons/autotyper
+*.tmp
